@@ -1,2 +1,2 @@
-key = "Yg&tc%DEuh6%Zc^8"
-iv = "6oyZDr22E3ychjM%"
+key = "SHRUTI_IV"
+iv = "SHRUTI_OP"
