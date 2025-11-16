@@ -266,7 +266,7 @@ def main():
             "periodicSummaryEndTime": str(credit_info.periodic_summary_end_time)
         }
 
-    result['credit'] = '@Ujjaiwal'
+    result['credit'] = '@xt_shriu'
     return jsonify(result)
 
 if __name__ == "__main__":
